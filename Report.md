@@ -28,7 +28,7 @@ As described above, the model architecture for this DDPG consists of two types o
 
 ## Training and Results
 
-![Plot of Rewards](https://github.com/MarcioPorto/drlnd-continuous-control/blob/master/plot_of_rewards.png)
+![Plot of Rewards](https://github.com/iAbhyuday/Continuous-Control-DRLND/raw/master/plot.png)
 
 As shown in the plot above and in the `Continuous_Control.ipynb` notebook, my agent is able to solve the environment after 134 episodes, and eventually settles at an average score near 33 after 250 episodes.
 
